@@ -1,0 +1,8 @@
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.exe.config
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.exe
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\bin\Debug\My_TIC_TAC_TOE.pdb
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.Properties.Resources.resources
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.csproj.GenerateResource.Cache
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.exe
+c:\users\omar\documents\visual studio 2013\Projects\My_TIC_TAC_TOE\My_TIC_TAC_TOE\obj\Debug\My_TIC_TAC_TOE.pdb
